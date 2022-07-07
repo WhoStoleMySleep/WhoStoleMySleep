@@ -21,10 +21,10 @@
   
 ### :man_technologist: About Me :
   
-Я Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
   
-- :telescope: Пишу на языках Front end разного вида сайты
-- :seedling: Постоянно развиваюсь в области, изучая документацию
+- :telescope: I develop sites of varying complexity.
+- :seedling: I am constantly developing in the field, studying documentation, watching training videos and keeping up with technology.
   
 ### :hammer_and_wrench: Languages and Tools :
   
@@ -41,7 +41,7 @@
 </div>
   
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WhoStoleMySleep&theme=dark&locale=ru&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WhoStoleMySleep&theme=dark&background=000000)](https://git.io/streak-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhoStoleMySleep&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
